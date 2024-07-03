@@ -1,0 +1,7 @@
+TITLE-ABS-KEY ( cannabis OR ( business AND health ) ) - 151,013 - 35,957
+TITLE-ABS-KEY ( cannabis PRE/15 ( health OR business ) ) - 2,861 - 2,775
+TITLE-ABS-KEY ( cannabis PRE/15 health ) - 2,776 - 2,721
+TITLE-ABS-KEY ( cannabis PRE/15 business ) - 102 - 75
+TITLE-ABS-KEY ( ( cannabis PRE/15 business ) AND ( cannabis PRE/15 health ) ) - 17 - 21
+
+cannabis AND business AND health - 1,73,000
